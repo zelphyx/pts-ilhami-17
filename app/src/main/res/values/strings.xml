@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">GameKnowledge</string>
+    <string-array name="gamename">
+        <item>Valorant</item>
+        <item>Counter Strike : Global Offensive</item>
+        <item>Ghostwire : Tokyo</item>
+        <item>Dota 2</item>
+        <item>League of Legends</item>
+        <item>Brawlhalla</item>
+        <item>Apex Legends</item>
+        <item>Tekken 7</item>
+        <item>The Forest</item>
+        <item>NARAKA: BLADEPOINT</item>
+    </string-array>
+    <string-array name="gamedesc">
+        <item>Valorant adalah sebuah game tembak-menembak online dengan gaya permainan first-person shooter (FPS) yang dikembangkan oleh Riot Games. Game ini melibatkan dua tim yang terdiri dari lima pemain masing-masing yang saling beradu strategi untuk menyelesaikan tujuan-tujuan tertentu. Setiap pemain memilih karakter dengan kemampuan dan senjata yang berbeda-beda untuk membantu timnya memenangkan pertandingan. Valorant menonjolkan elemen-elemen seperti kontrol objek, taktik, strategi, dan koordinasi tim yang kuat. Game ini dilengkapi dengan grafis yang indah dan gerakan yang halus serta sistem anti-cheat yang kuat untuk mencegah kecurangan. Valorant tersedia secara gratis untuk dimainkan di PC.</item>
+        <item>CSGO atau Counter-Strike: Global Offensive adalah sebuah game tembak-menembak online dengan gaya permainan first-person shooter (FPS) yang dikembangkan oleh Valve Corporation. Game ini melibatkan dua tim yang terdiri dari teroris dan counter-teroris yang saling beradu strategi untuk menyelesaikan tujuan-tujuan tertentu. Setiap pemain memilih karakter dengan senjata yang berbeda-beda untuk membantu timnya memenangkan pertandingan. CSGO menonjolkan elemen-elemen seperti kontrol objek, taktik, strategi, dan koordinasi tim yang kuat. Game ini juga memiliki sistem ekonomi dalam permainan, di mana pemain harus membeli senjata dan perlengkapan lainnya menggunakan uang yang didapatkan dari menyelesaikan tujuan atau membunuh musuh. CSGO dilengkapi dengan grafis yang indah dan gerakan yang halus serta sistem anti-cheat yang kuat untuk mencegah kecurangan. Game ini tersedia untuk dimainkan di PC, Xbox 360, dan PlayStation 3.</item>
+        <item>Ghostwire: Tokyo adalah sebuah game action-adventure yang dikembangkan oleh Tango Gameworks dan diterbitkan oleh Bethesda Softworks. Ceritanya berlatar di Tokyo, Jepang, di mana pemain berperan sebagai seorang karakter yang memiliki kemampuan supranatural untuk melawan kekuatan supranatural lainnya yang mengancam kota. Game ini menonjolkan atmosfer horor Jepang yang menakutkan dan grafis yang indah. Pemain akan menggunakan berbagai kemampuan supranatural dan senjata untuk melawan berbagai jenis musuh seperti hantu dan yokai. Selain itu, pemain juga akan menyelesaikan berbagai misi dan teka-teki untuk mengungkap misteri di balik fenomena supranatural yang terjadi di Tokyo. Ghostwire: Tokyo dirilis untuk PlayStation 5 dan PC.</item>
+        <item>Dota 2 adalah sebuah game MOBA (Multiplayer Online Battle Arena) yang dikembangkan dan diterbitkan oleh Valve Corporation. Game ini melibatkan dua tim yang terdiri dari lima pemain masing-masing yang bertarung untuk menghancurkan basis lawan. Setiap pemain memilih karakter atau "hero" dengan kemampuan dan peran yang berbeda-beda untuk membantu timnya memenangkan pertandingan. Dota 2 menonjolkan elemen-elemen seperti strategi, koordinasi tim, dan kontrol objek yang kuat. Pemain harus mengumpulkan sumber daya untuk membeli perlengkapan dan meningkatkan kemampuan hero mereka. Dota 2 memiliki komunitas yang besar dan aktif di seluruh dunia, dengan turnamen besar yang diadakan secara rutin. Game ini tersedia secara gratis untuk dimainkan di PC.</item>
+        <item>League of Legends (LoL) adalah sebuah game MOBA (Multiplayer Online Battle Arena) yang dikembangkan dan diterbitkan oleh Riot Games. Game ini melibatkan dua tim yang terdiri dari lima pemain masing-masing yang bertarung untuk menghancurkan basis lawan. Setiap pemain memilih karakter atau "champion" dengan kemampuan dan peran yang berbeda-beda untuk membantu timnya memenangkan pertandingan. LoL menonjolkan elemen-elemen seperti strategi, koordinasi tim, dan kontrol objek yang kuat. Pemain harus mengumpulkan sumber daya untuk membeli perlengkapan dan meningkatkan kemampuan champion mereka. LoL memiliki komunitas yang besar dan aktif di seluruh dunia, dengan turnamen besar seperti World Championship yang diadakan setiap tahunnya. Game ini tersedia secara gratis untuk dimainkan di PC.</item>
+        <item>Brawlhalla adalah sebuah game fighting platformer yang dikembangkan oleh Blue Mammoth Games dan diterbitkan oleh Ubisoft. Game ini melibatkan pertarungan antara dua hingga delapan pemain di arena yang berbeda-beda. Pemain dapat memilih dari berbagai karakter yang unik dengan gaya bertarung dan senjata yang berbeda-beda. Tujuan utama dalam game ini adalah untuk mengalahkan musuh dengan mengeluarkan mereka dari arena. Brawlhalla menonjolkan elemen-elemen seperti taktik, strategi, dan timing yang tepat dalam menghindari serangan dan menyerang. Game ini dilengkapi dengan grafis yang lucu dan menarik, serta berbagai mode permainan seperti mode kompetitif dan mode kooperatif. Brawlhalla tersedia secara gratis untuk dimainkan di PC, Xbox, PlayStation, Nintendo Switch, dan perangkat mobile.</item>
+        <item>Apex Legends adalah sebuah game battle royale yang dikembangkan oleh Respawn Entertainment dan diterbitkan oleh Electronic Arts (EA). Game ini melibatkan 20 tim yang terdiri dari tiga pemain masing-masing yang bertarung untuk menjadi tim terakhir yang bertahan hidup di pulau fiksi bernama Kings Canyon. Pemain memilih karakter yang disebut "legends" dengan kemampuan dan keunikan yang berbeda-beda untuk membantu timnya memenangkan pertandingan. Apex Legends menonjolkan elemen-elemen seperti taktik, strategi, dan koordinasi tim yang kuat, serta kemampuan untuk mengumpulkan sumber daya dan meningkatkan perlengkapan dalam permainan. Game ini dilengkapi dengan grafis yang indah dan gameplay yang halus serta sistem ping yang inovatif untuk memudahkan komunikasi tim. Apex Legends tersedia secara gratis untuk dimainkan di PC, Xbox, PlayStation, dan Nintendo Switch.</item>
+        <item>Tekken 7 adalah sebuah game fighting yang dikembangkan dan diterbitkan oleh Bandai Namco Entertainment. Game ini melibatkan pertarungan antara dua pemain yang memilih karakter atau "fighter" dengan gaya bertarung dan kemampuan yang unik. Tekken 7 menonjolkan elemen-elemen seperti taktik, strategi, dan timing yang tepat dalam menghindari serangan dan menyerang. Game ini dilengkapi dengan grafis yang indah dan gerakan karakter yang halus serta berbagai mode permainan seperti mode cerita, mode arcade, dan mode online. Tekken 7 juga menampilkan "Rage Art" dan "Power Crush" yang memungkinkan pemain untuk mengeksekusi serangan yang kuat dan membalas serangan musuh bahkan ketika karakter mereka dalam kondisi terdesak. Tekken 7 memiliki komunitas yang besar dan aktif di seluruh dunia, dengan turnamen besar seperti Tekken World Tour yang diadakan setiap tahunnya. Game ini tersedia untuk dimainkan di PC, Xbox, dan PlayStation.</item>
+        <item>The Forest adalah sebuah game survival horror yang dikembangkan oleh Endnight Games dan diterbitkan oleh SKS Games. Game ini melibatkan pemain yang terdampar di sebuah pulau yang dihuni oleh suku cannibal yang ganas. Pemain harus mencari sumber daya untuk bertahan hidup, membangun tempat tinggal, dan melindungi diri dari serangan musuh. The Forest menonjolkan elemen-elemen seperti crafting, eksplorasi, dan pertarungan melawan musuh yang menyeramkan. Pemain juga dapat bekerja sama dengan pemain lain untuk bertahan hidup bersama-sama. Game ini dilengkapi dengan grafis yang menakjubkan dan atmosfer yang menegangkan serta cerita yang menarik. The Forest tersedia untuk dimainkan di PC dan PlayStation 4</item>
+        <item>Naraka: Bladepoint adalah sebuah game battle royale yang dikembangkan oleh 24 Entertainment dan diterbitkan oleh NetEase Games. Game ini menawarkan pertempuran dalam skala besar di dalam sebuah dunia fiksi yang terinspirasi dari mitologi Tiongkok. Pemain memilih karakter yang unik dengan senjata dan kemampuan yang berbeda-beda, dan bertarung untuk menjadi pemain terakhir yang bertahan hidup di dalam arena yang semakin mengecil. Naraka: Bladepoint menonjolkan elemen-elemen seperti gerakan parkour yang lancar, pertarungan jarak dekat yang dinamis, dan pertempuran tim yang intens. Game ini dilengkapi dengan grafis yang memukau dan berbagai mode permainan seperti mode solo, mode duo, dan mode tim. Naraka: Bladepoint juga menampilkan fitur-fitur unik seperti grappling hook yang memungkinkan pemain untuk meluncur dan melompat di sekitar arena dengan cepat dan mudah. Game ini tersedia untuk dimainkan di PC dan PlayStation 5.</item>
+    </string-array>
+    <string-array name="gamepict">
+        <item>@drawable/valorantpict</item>
+        <item>@drawable/csgopict</item>
+        <item>@drawable/ghostwirepicty</item>
+        <item>@drawable/dota2pict</item>
+        <item>@drawable/lolpict</item>
+        <item>@drawable/brawlhallapict</item>
+        <item>@drawable/apexpict</item>
+        <item>@drawable/tekkenpict</item>
+        <item>@drawable/theforestpict</item>
+        <item>@drawable/narakapict</item>
+
+    </string-array>
+    <string-array name="gamecover">
+        <item>@drawable/valorantcover</item>
+        <item>@drawable/csgocover</item>
+        <item>@drawable/ghostwirecover</item>
+        <item>@drawable/dota2cover</item>
+        <item>@drawable/lolcover</item>
+        <item>@drawable/brawlhallacover</item>
+        <item>@drawable/apexcover</item>
+        <item>@drawable/tekkencover</item>
+        <item>@drawable/tfcover</item>
+        <item>@drawable/narakacover</item>
+    </string-array>
+</resources>
